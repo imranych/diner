@@ -114,6 +114,7 @@ h1 {
   background-color: white;
   color: #3c3c3c;
   transition-duration: 500ms;
+  transform-origin: 50% 50%;
 }
 
 .add-btn:hover {
